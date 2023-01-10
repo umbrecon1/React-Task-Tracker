@@ -1,0 +1,47 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Breakfast",
+      "time": "7 a.m.",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Second Breakfast",
+      "time": "9 a.m.",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Elevenses",
+      "time": "11 a.m.",
+      "reminder": true
+    },
+    {
+    "id": 4,
+      "text": "Luncheon",
+      "time": "1 p.m.",
+      "reminder": true
+    },
+    {
+      "id": 5,
+      "text": "Afternoon Tea",
+      "time": "3 p.m.",
+      "reminder": true
+    },
+    {
+      "id": 6,
+      "text": "Dinner",
+      "time": "6 p.m.",
+      "reminder": true
+    },
+    {
+      "id": 7,
+      "text": "Supper",
+      "time": "9 p.m.",
+      "reminder": true
+    }
+  ]
+
+}
