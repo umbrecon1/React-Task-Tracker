@@ -14,6 +14,8 @@
 
 body {
   font-family: 'Hobbiton Brushhand', sans-serif;
+  background-color: white;
+  color: black;
 }
 
 .container {
@@ -21,7 +23,7 @@ body {
   margin: 30px auto;
   overflow: auto;
   min-height: 300px;
-  border: 1px solid steelblue;
+  border: 1px solid orange;
   padding: 30px;
   border-radius: 5px;
 }
@@ -61,7 +63,7 @@ body {
 }
 
 .task {
-  background: #f4f4f4;
+  background: white;
   margin: 5px;
   padding: 10px 20px;
   cursor: pointer;
