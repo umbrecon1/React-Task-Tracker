@@ -1,5 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400&display=swap');
 
+@font-face {
+  font-family: 'Hobbiton Brushhand';
+  src: url('./fonts/HobbitonBrushhandhobbitonBrush-WygA.ttf');
+}
+
+
 * {
   box-sizing: border-box;
   margin: 0;
@@ -7,7 +13,7 @@
 }
 
 body {
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Hobbiton Brushhand', sans-serif;
 }
 
 .container {
